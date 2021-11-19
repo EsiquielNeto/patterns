@@ -1,4 +1,4 @@
-package br.com.studies.patterns.creationals.factory;
+package br.com.studies.patterns.creationals.factory_method;
 
 public class Truck implements Transport {
     @Override
